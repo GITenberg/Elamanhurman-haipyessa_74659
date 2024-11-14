@@ -1,0 +1,36 @@
+_repo: Elamanhurman-haipyessa_74659
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Lehmann, Rosamond
+    birthdate: 1901
+    deathdate: 1990
+    gutenberg_agent_id: '56765'
+    url: http://www.gutenberg.org/2009/agents/56765
+    wikipedia: https://en.wikipedia.org/wiki/Rosamond_Lehmann
+description: ''
+gutenberg_issued: '2024-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74659'
+language: fi
+pgterms:marc905: 20240827123547lehmann
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elämänhurman häipyessä
+url: http://www.gutenberg.org/ebooks/74659
