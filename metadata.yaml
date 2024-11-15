@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '41954'
     url: http://www.gutenberg.org/2009/agents/41954
     wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lehmann, Rosamond
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56765
     wikipedia: https://en.wikipedia.org/wiki/Rosamond_Lehmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74659#Elamanhurman-haipyessa
 gutenberg_issued: '2024-10-30'
 gutenberg_type: Text
 identifiers:
